@@ -1,0 +1,16 @@
+﻿{
+	"version": "1.0.0-*",
+	"description": "Fizzler-dnxcore Class Library",
+	"authors": [ "Tez" ],
+	"tags": [ "" ],
+	"projectUrl": "",
+	"licenseUrl": "",
+
+	"dependencies": {
+		"HtmlAgilityPack.NetCore": "1.4.9.2"
+	},
+
+	"frameworks": {
+		"dnxcore50": { }
+	}
+}
